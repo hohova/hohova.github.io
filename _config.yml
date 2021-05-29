@@ -1,17 +1,17 @@
 # Site settings
-title: nimkoes
+title: hohova
 description: >
   I solemnly swear that I am a programmer.
 
 baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "https://nimkoes.github.io" # the base hostname & protocol for your site
+url: "https://hohova.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: nimkoes
-  github: nimkoes
-  naverblog: hsm622
-  tistory: xxxelppa
-  email: xxxelppa@gmail.com
+  fullname: hohova
+  github: hohova
+  naverblog: 
+  tistory: 
+  email: hohova@naver.com
 
 
 # Syntax highlighting
