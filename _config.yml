@@ -1,7 +1,7 @@
 # Site settings
 title: hohova
 description: >
-  I solemnly swear that I am a programmer.
+  Data makes marketing easier.
 
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://hohova.github.io" # the base hostname & protocol for your site
